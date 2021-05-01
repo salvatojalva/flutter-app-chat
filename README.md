@@ -1,6 +1,8 @@
 # chat_app
 
-A new Flutter project.
+El proyecto es un pequenio chat.
+
+Utiliza Firebase para la autenticacion y FirebaseStore para el almacenamiento de los mensajes del chat
 
 ## Getting Started
 
