@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73901359158",
+    "project_id": "chatsito-flutter",
+    "storage_bucket": "chatsito-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73901359158:android:da916bd77ca7aba6c45897",
+        "android_client_info": {
+          "package_name": "com.salva.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73901359158-gtesoacsb5g1sg3sg1h6bshm0eebiaut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJEMa56zJ7xlTDXETUhPyPk7EJnRJxnhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73901359158-gtesoacsb5g1sg3sg1h6bshm0eebiaut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
